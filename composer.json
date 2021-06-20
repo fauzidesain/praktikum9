@@ -1,0 +1,16 @@
+{
+    "name": "erwin/uts-oop",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "erwin",
+            "email": "erwin@uinsu.ac.id"
+        }
+    ],
+    "require": {}
+}
